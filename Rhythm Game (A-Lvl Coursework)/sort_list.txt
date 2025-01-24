@@ -1,0 +1,9 @@
+marzy : 2
+sam : 2
+miri : 1
+jolene : 0
+richa : 0
+Fifi : 0
+Susangky : 1
+Maryam : 0
+zaynah : 1
