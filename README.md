@@ -18,7 +18,18 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<img align="left" alt="IntelliJ" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+
 <br/>
+
+##
+
+<h3>🌱 Current Projects</h3>
+<ug>
+  <li>Restoring my A-Level Rhythm Game Coursework</li>
+  <li>Creating a website using React for my small handmade keychain business</li>
+</ug>
 
 ##
 
