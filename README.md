@@ -26,7 +26,7 @@
 
 <h3>🌱 Current Projects</h3>
 <ug>
-  <li>Restoring my A-Level Rhythm Game Coursework.</li>
+  <li>Restoring my A-Level Rhythm Game Coursework. (Completed ✅)</li>
   <li>Building a website with React for my small handmade keychain business.</li>
 </ug>
 
