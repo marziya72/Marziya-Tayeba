@@ -1,4 +1,5 @@
 import pygame
+from pygame.locals import *
 import sys
 import re
 import button
