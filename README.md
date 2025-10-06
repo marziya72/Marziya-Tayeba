@@ -4,7 +4,6 @@
 
 <h3>❓ About Me</h3>
 <ul>
-  <li>📓 Student at City, University of London</li>
   <li>💻 Programming Enthusiast: I enjoy exploring new programming languages and deepening my expertise in those I already know.</li>
   <li>🎮 Passions: Art, music and gaming. </li>
   <li>🏆 Driven Competitor: Passionate to participate in competitions and workshops to sharpen my skills and showcase my talents.</li>
@@ -27,8 +26,8 @@
 
 <h3>🌱 Current Projects</h3>
 <ug>
-  <li>Restoring my A-Level Rhythm Game Coursework</li>
-  <li>Creating a website using React for my small handmade keychain business</li>
+  <li>Restoring my A-Level Rhythm Game Coursework. (Completed ✅)</li>
+  <li>Building a website with React for my small handmade keychain business.</li>
 </ug>
 
 ##
