@@ -1,0 +1,7 @@
+Level3,10,2,5.167342,21.175236
+Enemy2,14.0,34.714993
+Enemy,-11.208059,51.714993,-14.0,-5.0
+OrbCollectible,-16.0,52.0,false
+OrbCollectible,-4.0,40.0,false
+OrbCollectible,-12.0,32.0,false
+ButtonOrb,-10.0,3.0,true
