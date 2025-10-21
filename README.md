@@ -26,13 +26,13 @@
 
 <h3>📂 Featured Projects</h3>
 
-- 🎮 [A-Level Rhythm Game Project](https://github.com/marziya72/A-Level-Rhythm-Game-Project)
-- 💻 [Java Game Project](https://github.com/marziya72/Java-Game-Project)
-- 🗄️ [Database Tasks/Model](https://github.com/marziya72/Marziya_Tayeba_IN1013-Databases)
-- 🧶 [Marzy’s Accessories Website (React) - In Progress](https://github.com/marziya72/marzysaccessories)
-- ✨ [Dear Diary Project](https://github.com/marziya72/creativecoding)
+- 🎮 [A-Level Rhythm Game Project (Python/SQL)](https://github.com/marziya72/A-Level-Rhythm-Game-Project)
+- 💻 [Java Game Project (Java)](https://github.com/marziya72/Java-Game-Project)
+- 🗄️ [Database Tasks/Model (SQL)](https://github.com/marziya72/Marziya_Tayeba_IN1013-Databases)
+- ⚙️ [Interactive Widget (HTML/CSS)](https://github.com/marziya72/Interactive-Widget)
+- ✨ [Dear Diary Project (Processing)](https://github.com/marziya72/creativecoding)
 - 🧩 [Small Projects Collection](https://github.com/marziya72/Small-Projects)
-
+- 🎨 [MarzysAccessories Website (React) - In Progress](https://github.com/marziya72/marzysaccessories)
 
 <h3>🌱 Current Projects</h3>
 <ug>
