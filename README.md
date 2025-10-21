@@ -1,6 +1,6 @@
 <h1> 🌸 Marziya Tayeba </h1>
 
-**` First Year Computer Science Student `**
+**` Second Year Computer Science Student `**
 
 <h3>❓ About Me</h3>
 <ul>
